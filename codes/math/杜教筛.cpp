@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long ll;
 const int maxn = 1700010;
 int T, tot, prime[maxn], mu[maxn];
 map<int, ll> ans_mu;
