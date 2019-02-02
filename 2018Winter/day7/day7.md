@@ -596,7 +596,7 @@ For each test case, print a single line containing "YES" (without quotes), if th
 
 > **Output**
 > NO
-> YES
+> YES  
 
 <br/>
 
