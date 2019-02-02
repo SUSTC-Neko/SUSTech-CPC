@@ -290,7 +290,7 @@ For each test case, print a single line containing the minimum number of require
 
 <br/>
 
-[<center> E. The Architect Omar>](https://codeforces.com/gym/101502/problem/E)
+[<center> E. The Architect Omar </center>](https://codeforces.com/gym/101502/problem/E)
 ---
 
 <center> time limit per test: 1.0 s </center>
@@ -345,7 +345,7 @@ For each test case, print a single integer that represents the maximum number of
 
 <br/>
 
-[<center> F. Building Numbers>](https://codeforces.com/gym/101502/problem/F)
+[<center> F. Building Numbers </center>](https://codeforces.com/gym/101502/problem/F)
 ---
 
 <center> time limit per test: 3.0 s </center>
@@ -400,7 +400,7 @@ For each query, print a single line containing its answer.
 
 <br/>
 
-[<center> H. Eyad and Math>](https://codeforces.com/gym/101502/problem/H)
+[<center> H. Eyad and Math </center>](https://codeforces.com/gym/101502/problem/H)
 ---
 
 <center> time limit per test: 2.0 s </center>
@@ -444,7 +444,7 @@ For each test case, print a single line containing "<" (without quotes), if $a^b
 
 <br/>
 
-[<center> I. Move Between Numbers>](https://codeforces.com/gym/101502/problem/I)
+[<center> I. Move Between Numbers </center>](https://codeforces.com/gym/101502/problem/I)
 ---
 
 <center> time limit per test: 2.0 s </center>
@@ -499,7 +499,7 @@ For each test case, print a single line containing the minimum numbers of moves 
 
 <br/>
 
-[<center> J. Boxes Game>](https://codeforces.com/gym/101502/problem/J)
+[<center> J. Boxes Game </center>](https://codeforces.com/gym/101502/problem/J)
 ---
 
 <center> time limit per test: 3.0 s </center>
@@ -557,7 +557,7 @@ For each test case, print a single line containing its answer.
 
 <br/>
 
-[<center> K. Malek and Summer Semester>](https://codeforces.com/gym/101502/problem/K)
+[<center> K. Malek and Summer Semester </center>](https://codeforces.com/gym/101502/problem/K)
 ---
 
 <center> time limit per test: 1.0 s </center>
@@ -596,7 +596,7 @@ For each test case, print a single line containing "YES" (without quotes), if th
 
 > **Output**
 > NO
-> YES  
+> YES
 
 <br/>
 
