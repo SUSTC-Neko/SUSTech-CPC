@@ -67,7 +67,7 @@ inline void Union(ll u, ll v)
 int main()
 {
     scanf("%d%d", &n, &m);
-    minnum = 9223372036854775807;
+    minnum = __LONG_MAX__;
     minnumindex = 0;
     init();
     for (ll i = 1; i <= n; i++)
